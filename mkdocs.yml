@@ -77,3 +77,4 @@ pages:
     - Templates: concepts/templates.md
     - Rendering: concepts/rendering.md
     - Security: concepts/security.md
+    - Workflows: concepts/workflows.md
